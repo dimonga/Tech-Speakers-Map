@@ -239,6 +239,14 @@
       			"country": "Nepal",
       			"lat": 27.6718564, 
       			"lng": 85.3275269
+		},
+		{
+			"name": "Dipesh Monga",
+			"url": "https://mozillians.org/u/dimonga",
+			"gravatar": "dipeshcmonga@gmail.com",
+			"country": "India",
+			"lat": 22.655018,
+			"lng": 75.911817
 		}
 	]
 }
